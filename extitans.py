@@ -8,8 +8,11 @@ elif phone[0] == '8':
     phone = '7'+phone[1:]
 elif phone[0] == '9':
     phone = '7'+phone
-
-
+    
+    
+    
+    
+print("https://www.youtube.com/channel/UCC0-w64BrjxtcFfLE9wAJBQ")
 
 
 def sms():
